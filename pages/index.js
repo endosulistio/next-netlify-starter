@@ -12,9 +12,6 @@ export default function Home() {
 
       <main>
         <Header title="Convert Pulsa" />
-    <Link href="https://tukar.co.id">
-          <a>Convert Pulsa</a>
-        </Link>
         <p className="description">
     
     
